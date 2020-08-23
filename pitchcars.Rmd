@@ -81,4 +81,3 @@ head(mtcars, 8)
       abline(fit(), col=2)
     })  })
 ```
-publish(user = "Maguerra94", repo = "https://github.com/Maguerra94/week-4")
